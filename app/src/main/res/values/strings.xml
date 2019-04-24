@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidLab2</string>
+    <string name="recipesbook">Tkachuk</string>
+    <string name="Add">Add</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="recipe_1">Button</string>
+    <string name="item">item</string>
+    <string name="todo1">TODO</string>
+    <string name="search1">Search</string>
+</resources>
